@@ -10,10 +10,10 @@
 <br><p align='center'><img src="https://komarev.com/ghpvc/?username=Toshi-san&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="Dipeshu" />
 
 - 🖇️ Name- **Dipesh_さん**
-- 🎂 Age- 20
-- 📚 Study- ```Im an JEE aspirant```
+- 🎂 Age- 21
+- 📚 Study- ``` Am an CSE AI/ML student```
 
-- 🚀 My hobbys are reading mangas, Watching animes, drawing, web surfing(surface and dark), know about open source projects.
+- 🚀 My hobbys are reading mangas, Watching animes, drawing, web surfing(surface and dark), know about open source projects well as well am working on Eternity Bots.
 
 - 🎗️ I’m currently learning **Javascript, Typescript.
 
