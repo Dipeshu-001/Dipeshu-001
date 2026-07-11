@@ -6,7 +6,6 @@
 
 <h1 align="center">ʜɪ 👋, ɪ'ᴍ Dipeshu. ᴜsᴇʀɴᴀᴍᴇ- Dipeshu-001</h1>
 <h3 align="center">I am a noob coder. Learning javascript and Node js👀.</h3>
-<a href="https://api.daily.dev/get?r=Dipeshu-001"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
 <a href = "https://github.com/Dipeshu-001"><img src = "https://cardivo.vercel.app/api?name=Dipeshu_さん&description=A%20IS%20NOOB%20CODER%20ALWAYS%20IN%20SEARCH%20OF%20NEW%20THINGS&image=https://wallpaperaccess.com/full/4370278.jpg&backgroundColor=%23ecf0f1&github=Dipeshu_さん&pattern=topography&colorPattern=%23eaeaea"/><a>
 <br><p align='center'><img src="https://komarev.com/ghpvc/?username=Toshi-san&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="Dipeshu" />
 
@@ -22,7 +21,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dipeshu-001" alt="Dipeshu-001" /></a> </p>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=Dipeshu-001&show_icons=true&theme=radical&line_height=40&count_private=true&cache_seconds=1800&title_color=red&include_all_commits=true">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dipeshu-001&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
