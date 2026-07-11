@@ -3,6 +3,8 @@
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/yknDmpR/giphy.gif" alt="giphy" border="0" /></a>
 
+https://camo.githubusercontent.com/54767cf1f5e5ca00862f07ea1f4262e43ece77e2bca8de3c2e5aae5d0c170800/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b50545a6a4d446c694f5455794e6d786a6157737763323931656d55345a4845334e484a6d655764335a7a423161585a79626a687464484d30615456334d6a453561795a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f4f4c5051367a32686c486d7746633448736f2f67697068792e676966
+
 <h1 align="center">ʜɪ 👋, ɪ'ᴍ Dipeshu. ᴜsᴇʀɴᴀᴍᴇ- Dipeshu-001</h1>
 <h3 align="center">I am a noob coder. Learning javascript and Node js👀.</h3>
 <a href="https://api.daily.dev/get?r=Dipeshu-001"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
