@@ -5,7 +5,7 @@
 
 
 <h1 align="center">ʜɪ 👋, ɪ'ᴍ Dipesh. ᴜsᴇʀɴᴀᴍᴇ- Dipeshu-001</h1>
-<h3 align="center">I am a noob coder. Learning javascript and Node js👀.</h3>
+<h3 align="center">Currently Learning everything.</h3>
 <a href = "https://github.com/Dipeshu-001"><img src = "https://cardivo.vercel.app/api?name=Dipeshu_さん&description=A%20IS%20NOOB%20CODER%20ALWAYS%20IN%20SEARCH%20OF%20NEW%20THINGS&image=https://wallpaperaccess.com/full/4370278.jpg&backgroundColor=%23ecf0f1&github=Dipeshu_さん&pattern=topography&colorPattern=%23eaeaea"/><a>
 <br><p align='center'><img src="https://komarev.com/ghpvc/?username=Dipesh&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="Dipeshu" />
 
@@ -13,9 +13,8 @@
 - 🎂 Age- 22
 - 📚 Study- ``` Am an BCA AI/ML student```
 
-- 🚀 My hobbys are reading mangas, Watching animes, drawing, web surfing(surface and dark), know about open source projects well as well am working on Eternity Bots.
+- 🚀 My hobbys are reading mangas, Watching animes, drawing, web surfing(surface and dark), know about open source projects well as well am working on my own things.
 
-- 🎗️ I’m currently learning **Javascript, Typescript.
 
 </div>
 
